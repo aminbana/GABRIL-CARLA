@@ -1,0 +1,17 @@
+dataset/*
+checkpoints/*
+Vids/*
+.idea/*
+*__pycache__*
+*.mp4
+*.zip
+figs/*
+logs/*
+trained_models/*
+results/*
+*.png
+*.torch
+*.npy
+*.gif
+*.pdf
+!images/*.png
