@@ -1,6 +1,6 @@
 # Official Repository for CARLA Implementation of GABRIL
 
-In this repository, we provide the code and instructions to run **CARLA** experiments from our paper: **GABRIL: Gaze-Based Regularization for Mitigating Causal Confusion in Imitation Learning**.
+In this repository, we provide the code and instructions to run **CARLA** experiments from our paper: [**GABRIL: Gaze-Based Regularization for Mitigating Causal Confusion in Imitation Learning**](https://liralab.usc.edu/gabril/).
 
 <p align="center">
   <img src="images/method.png" alt="" width="500"/>
