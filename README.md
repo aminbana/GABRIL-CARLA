@@ -87,7 +87,7 @@ For evaluation, first we have to start CARLA server. To that end, run the follow
 ${CARLA_ROOT}/CarlaUE4.sh -quality-level=Epic -world-port=6000 -carla-rpc-port=3000 &
 ```
 
-If your system has no display connected, use the ```-RenderOffScreen``` as well. Finally, evaluate the trained models using the ```env_manager.py`` script. For example, to evaluate *GABRIL* trained using the above commands, run
+If your system has no display connected, use the ```-RenderOffScreen``` as well. Finally, evaluate the trained models using the ```env_manager.py``` script. For example, to evaluate *GABRIL* trained using the above commands, run
 
 ```
 python env_manager.py --agent=BC --params_path=results/GABRIL --seed=100 --routes-id=3100 --video_path=auto --traffic-manager-port=3000 --port=6000
